@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Post/Model Controllers/PostController.swift"
+            timestampString = "579566100.988833"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "addNewPostWith(username:text:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Post/Model Controllers/PostController.swift"
+            timestampString = "579566100.989776"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
+            landmarkName = "addNewPostWith(username:text:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Post.PostController.addNewPostWith(username: Swift.String, text: Swift.String, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "Post"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jordanhendrickson/Desktop/XCode/iOS-Student/Afternoon%20Projects/Unit%203%20-%20Networking/Day%201%20&amp;%202/Post/Post/Model%20Controllers/PostController.swift"
+                  timestampString = "579565455.337281"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "933">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Post.PostController.addNewPostWith(username: Swift.String, text: Swift.String, completion: () -&gt; ()) -&gt; ()"
+                  moduleName = "Post"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jordanhendrickson/Desktop/XCode/iOS-Student/Afternoon%20Projects/Unit%203%20-%20Networking/Day%201%20&amp;%202/Post/Post/Model%20Controllers/PostController.swift"
+                  timestampString = "579565455.340541"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "25">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Post/View Controller/PostListTableViewController.swift"
+            timestampString = "579566100.990276"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "presentNewPostAlert()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Post/View Controller/PostListTableViewController.swift"
+            timestampString = "579566100.990363"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "presentNewPostAlert()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in Post.PostListTableViewController.presentNewPostAlert() -&gt; ()"
+                  moduleName = "Post"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jordanhendrickson/Desktop/XCode/iOS-Student/Afternoon%20Projects/Unit%203%20-%20Networking/Day%201%20&amp;%202/Post/Post/View%20Controller/PostListTableViewController.swift"
+                  timestampString = "579565455.369857"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "1390">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #2 (__C.UIAlertAction) -&gt; () in Post.PostListTableViewController.presentNewPostAlert() -&gt; ()"
+                  moduleName = "Post"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jordanhendrickson/Desktop/XCode/iOS-Student/Afternoon%20Projects/Unit%203%20-%20Networking/Day%201%20&amp;%202/Post/Post/View%20Controller/PostListTableViewController.swift"
+                  timestampString = "579565455.3733259"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
